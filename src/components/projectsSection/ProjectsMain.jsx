@@ -2,34 +2,35 @@ import ProjectsText from "./ProjectsText";
 import SingleProject from "./SingleProject";
 import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
+import { webimage1, webimage2, webimage3, webimage4 } from "../../assets";
 
 const projects = [
   {
     name: "Recipe Finder",
     year: "July2025",
     align: "right",
-    image: "/images/website-img-1.jpg",
+    image: webimage1,
     link: "#",
   },
   {
     name: "AI Gym Trainer",
     year: "March2025",
     align: "left",
-    image: "/images/website-img-2.webp",
+    image: webimage2,
     link: "#",
   },
   {
     name: "PrimeCars",
     year: "Jan2024",
     align: "right",
-    image: "/images/website-img-3.jpg",
+    image: webimage3,
     link: "#",
   },
   {
     name: "Hostel Management System",
     year: "July2023",
     align: "left",
-    image: "/images/website-img-4.jpg",
+    image: webimage4,
     link: "#",
   },
 ];
