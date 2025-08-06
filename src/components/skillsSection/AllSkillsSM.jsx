@@ -1,4 +1,4 @@
-import { FaHtml5 } from "react-icons/fa";
+import { FaCode, FaHtml5, FaJava, FaPython } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io";
 import { SiTypescript } from "react-icons/si";
@@ -23,27 +23,27 @@ const skills = [
     icon: IoLogoJavascript,
   },
   {
-    skill: "TypeScript",
-    icon: SiTypescript,
+    skill: "TailwindCSS",
+    icon: RiTailwindCssFill,
   },
   {
     skill: "ReactJS",
     icon: FaReact,
   },
   {
-    skill: "Redux",
-    icon: SiRedux,
-  },
-  {
-    skill: "NextJS",
-    icon: SiNextdotjs,
-  },
-  {
-    skill: "TailwindCSS",
-    icon: RiTailwindCssFill,
-  },
+      skill: "JAVA",
+      icon: FaJava,
+    },
+    {
+      skill: "C#",
+      icon: FaCode,
+    },
+    {
+      skill: "Python",
+      icon: FaPython,
+    },
+  
 ];
-
 const AllSkillsSM = () => {
   return (
     <div className="grid md:grid-cols-4 sm:grid-cols-2 gap-12 my-12">

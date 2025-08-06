@@ -6,33 +6,32 @@ import { fadeIn } from "../../framerMotion/variants";
 const experiences = [
   {
     job: "Front-End Developer",
-    company: "Alex Apps",
-    date: "2022 - Present",
+    company: "Oasis Infobyte",
+    date: "2023",
     responsibilities: [
-      "Implementing reusable components.",
-      "Participating in large scale application.",
-      "Working on the performance of web applications.",
-      "Generating new ideas for better user experience.",
+       "Developed responsive user interfaces using HTML, CSS, and JavaScript.",
+    "Collaborated with designers to enhance UI/UX consistency.",
+    
     ],
   },
   {
-    job: "Course Instructor",
-    company: "Nucamp",
-    date: "2023 - Present",
+    job: "Full Stack Developer",
+    company: "D4X Technology",
+    date: "2025",
     responsibilities: [
-      "Explaining and facilitating web development concepts.",
-      "Help students with their assignments and grade them weekly.",
-      "Provide support for students through their learning journey.",
+       "Built and maintained full-stack applications using React and Spring Boot.",
+    "Designed RESTful APIs and integrated front-end with backend services.",
+    "Managed version control and deployment workflows using Git and GitHub.",
     ],
   },
   {
-    job: "Course Instructor",
-    company: "Sprints",
+    job: "MCA Student",
+    company: "VESIT",
     date: "2024 - Present",
     responsibilities: [
-      "Teaching JavaScript, React and TailwindCSS.",
-      "Participating in preparing course materials.",
-      "Helping students through their way in learning web development technologies.",
+      "Engaged in hands-on projects using JavaScript, React, and Spring Boot.",
+    "Collaborated on group assignments and coding challenges.",
+    "Built academic and personal portfolio projects using modern web technologies.",
     ],
   },
 ];
