@@ -1,6 +1,6 @@
 {
   "name": "rs-portfolio",
-  "homepage": "https://rahulsuwasiya.github.io/rs-portfolio/",
+  "homepage": "https://github.com/rahulsuwasiya/rs-portfolio.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,6 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy":"npm run build",
     "deploy":"gh-pages -d dist"
   },
   "dependencies": {
