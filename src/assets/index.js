@@ -2,7 +2,7 @@ import me from './me.png';
 import aboutme from './about-me.jpg';
 import emailimage from './email-image.png';
 import experienceimage from './experience-image.png';
-import hexapic from './HexaPic.png';
+import hexapic from './HexaPics.png';
 import skills from './skills.avif';
 
 import subskills from './subSkills.jpg';
