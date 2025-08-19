@@ -10,28 +10,28 @@ const projects = [
     year: "July2025",
     align: "right",
     image: webimage1,
-    link: "#",
+    link: "https://github.com/rahulsuwasiya/recipe_finder",
   },
   {
     name: "AI Gym Trainer",
     year: "March2025",
     align: "left",
     image: webimage2,
-    link: "#",
+    link: "https://github.com/rahulsuwasiya/ExerLytix",
   },
   {
     name: "PrimeCars",
     year: "Jan2024",
     align: "right",
     image: webimage3,
-    link: "#",
+    link: "https://github.com/rahulsuwasiya/Car-Rental-Management-System",
   },
   {
     name: "Hostel Management System",
     year: "July2023",
     align: "left",
     image: webimage4,
-    link: "#",
+    link: "https://github.com/rahulsuwasiya/Hostal-Management",
   },
 ];
 
